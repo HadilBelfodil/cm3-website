@@ -19,8 +19,18 @@ In this one we show some lists. just start the lista on the next line after hitt
 In this new para we create a numbered list using numbers.
 1. first item
 2. second item
+3. third item
 
-This shorthand is called Markdown. It is a general text format used almost everywhere on the web. [Google](https://www.google.com) (see how I made this link) about it to learn more.
+## Economics 
+1. Macroeconomics
+2. The wealth of nations
+3. Microeconomics
+   
+This shorthand is called Markdown. It is a general text format used almost everywhere on the web. [Google](https://www.google.com) (see how I made this link) about it to learn more. and you can go to chatgpt(http://chat.openai.com).
+
+
+
+   
 
 You can write code by using triple-ticks:
 
